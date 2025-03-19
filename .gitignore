@@ -1,1 +1,11 @@
 touch .gitignore
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretório de dependências do Node.js
+node_modules/
+
+# Ignorar arquivos de configuração do ambiente
+.env
+
